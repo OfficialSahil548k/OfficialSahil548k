@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/sahil_548k" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sahil_548k" /></a>
-  <a href="https://www.linkedin.com/in/sahil-sharma" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sahil Sharma" /></a>
+  <a href="https://www.linkedin.com/in/sahil-sharma](https://www.linkedin.com/in/sahil-sharma-0990b6288/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sahil Sharma" /></a>
 </p>
 
 ---
