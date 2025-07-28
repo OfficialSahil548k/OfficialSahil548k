@@ -50,10 +50,7 @@
 
 ## 🧠 GitHub Contribution Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OfficialSahil548k&theme=tokyonight&hide_border=true&ring=FFB000&currStreakNum=F85C50" alt="GitHub Streak"/>
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
