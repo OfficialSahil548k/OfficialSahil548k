@@ -13,9 +13,7 @@
 
 ### 🏆 GitHub Trophies:
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=OfficialSahil548k&theme=algolia" alt="trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
