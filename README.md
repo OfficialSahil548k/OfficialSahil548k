@@ -11,6 +11,14 @@
 
 ---
 
+### 🏆 GitHub Trophies:
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=OfficialSahil548k&theme=algolia" alt="trophies" />
+</p>
+
+---
+
 ### 🌐 Connect with me:
 
 <p align="left">
@@ -42,6 +50,15 @@
 
 ---
 
+## 🧠 GitHub Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OfficialSahil548k&theme=tokyonight&hide_border=true&ring=FFB000&currStreakNum=F85C50" alt="GitHub Streak"/>
+</p>
+
+
+---
+
 ### 📊 Most Used Languages:
 
 <p align="left">
@@ -50,8 +67,3 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=OfficialSahil548k&theme=algolia" alt="trophies" />
-</p>
