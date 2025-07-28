@@ -50,7 +50,7 @@
 
 ## 🧠 GitHub Contribution Stats
 
-![OfficialSahil548k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OfficialSahil548k&theme=vue-dark&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=OfficialSahil548k&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ---
 
