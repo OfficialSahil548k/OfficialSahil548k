@@ -50,7 +50,8 @@
 
 ## 🧠 GitHub Contribution Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OfficialSahil548k)](https://git.io/streak-stats)
+![OfficialSahil548k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OfficialSahil548k&theme=vue-dark&hide_border=true)
+
 ---
 
 ### 📊 Most Used Languages:
