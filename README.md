@@ -13,7 +13,7 @@
 
 ### 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OfficialSahil548k)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ## 🧠 GitHub Contribution Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OfficialSahil548k)](https://git.io/streak-stats)
 
 ---
 
