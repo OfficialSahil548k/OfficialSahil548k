@@ -13,7 +13,7 @@
 
 ### 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OfficialSahil548k)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=OfficialSahil548k)
 
 ---
 
