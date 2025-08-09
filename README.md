@@ -50,7 +50,7 @@
 
 ## 🧠 GitHub Contribution Stats
 
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSahil548k)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=OfficialSahil548k&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
