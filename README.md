@@ -54,11 +54,3 @@
 
 ---
 
-### 📊 Most Used Languages:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialSahil548k&layout=compact&theme=dark" alt="top languages" />
-</p>
-
----
-
