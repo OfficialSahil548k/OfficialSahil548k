@@ -40,14 +40,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OfficialSahil548k&show_icons=true&theme=dark" alt="github stats" />
-</p>
-
----
-
 ## 🧠 GitHub Contribution Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=OfficialSahil548k&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
